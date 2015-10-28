@@ -1,14 +1,11 @@
 # Needs
 
-Versão básica para stack full client js (angular/require) c/ Spring MVC.
+Versão básica para stack client js (angular/require) com Spring MVC. Baseado no JHisper. 
 
 ## Roadmap
 
 ![Image of Yaktocat](https://docs.google.com/drawings/d/1y_tJIqpOHXN4SxYFf3vYWggj_td6lhPqaJmu6b1J2Yk/pub?w=495&h=379)
   
-
-## Arquitetura
-TODO: ???
 
 ## Desenvolvimento
 
